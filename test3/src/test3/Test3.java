@@ -10,8 +10,8 @@ public class Test3 {
 	  int c =20;
 
   System.out.println(s);
-  System.out.println(a+s);
   System.out.println(a);
+  System.out.println(c);
 
 }
 }
